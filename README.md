@@ -1,4 +1,4 @@
-# smart-attendance-management-system
+# Smart-attendance-management-system
 
 
 🚀 Key Features
